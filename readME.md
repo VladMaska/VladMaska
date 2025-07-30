@@ -43,7 +43,7 @@ Passionate about crafting immersive Unity experiences and building full-stack to
 ---
 
 ## 🧭 Where to Find Me
-- 🌐 [GitHub](https://github.com/VladMaska)  
+- 🌐 [Website](https://vladmaska.github.io/)  
 - 🧵 [Telegram](https://t.me/vlad_maska)  
 - 💡 More coming soon...
 
