@@ -2,29 +2,51 @@
 
 <div align="center">
 
-<h1>I'm a Gamer, Game Developer</h1>
-<br />
-<h3>Languages and Tools:</h3>
+# 👋 Hi, I’m <strong>VladMaska</strong>  
+🎮 <code>Gamer</code>  
+🛠️ <code>Game Developer</code>
 
----
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="50" height="50"/>
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="50" height="50"/>
-</p>
-
----
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-</p>
+Passionate about crafting immersive Unity experiences and building full-stack tools.
 
 </div>
+
+---
+
+## 💻 Tech Stack
+
+<h2 align="center"> 🎮 Game Development </h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,unity,blender&theme=light" alt="Game Dev Icons" />
+</p>
+
+<h2 align="center"> 🌐 Web & Scripting </h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,python&theme=light" alt="Web Dev Icons" />
+</p>
+
+---
+
+## 📌 About Me
+- 🧠 Passionate about learning and building new things  
+- 🔨 Focused on experiments, tools, and game prototypes  
+- 🧩 Interested in gamedev, web automation, blockchain, and custom tooling  
+- ✨ Constantly exploring new tech and solving problems for fun  
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladMaska&layout=compact&theme=apprentice" width="50%" />
+</div>
+
+---
+
+## 🧭 Where to Find Me
+- 🌐 [GitHub](https://github.com/VladMaska)  
+- 🧵 [Telegram](https://t.me/vlad_maska)  
+- 💡 More coming soon...
+
+---
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
